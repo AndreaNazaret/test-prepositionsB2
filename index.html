@@ -20,6 +20,7 @@
 
   <script>
     let preguntas = [];
+    let aciertos = 0;
     let indice = 0;
 
     async function cargarPreguntas() {
@@ -57,6 +58,9 @@
         btn.disabled = true;
         if (i === preguntas[indice].respuesta_correcta) {
           btn.classList.add('correcta');
+          if (i === seleccionado) {
+        aciertos++; // 👈 cuenta aciertos solo si el usuario eligió correctamente
+        }
         } else if (i === seleccionado) {
           btn.classList.add('incorrecta');
         }
@@ -70,7 +74,11 @@
         mostrarPregunta();
         document.getElementById('siguiente').style.display = 'none';
       } else {
-        document.getElementById('contenedor-pregunta').innerHTML = '<h2>¡Has completado el test!</h2>';
+        const total = preguntas.length;
+        document.getElementById('contenedor-pregunta').innerHTML =
+         '<h2>¡Has completado el test!</h2>'
+          '<p>Respuestas correctas: <strong>${aciertos} de ${total}</strong></p>';
+        
         document.getElementById('siguiente').style.display = 'none';
       }
     };
