@@ -100,15 +100,15 @@ body {
 /* Estilos adaptativos para móviles */
 @media (max-width: 600px) {
   .titulo {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     margin-bottom: 1.5rem;
     padding: 0 1rem;
   }
 
   .card {
-    padding: 2rem 1.2rem;
-    border-radius: 16px;
-    width: 95%;
+    width: 90%;
+    padding: 2rem 1rem;
+    margin: 0 1rem;
   }
 
   #contenedor-pregunta h2 {
@@ -123,7 +123,9 @@ body {
   }
 
   .barra-progreso {
-    height: 14px;
+     max-width: 90%;
+  margin: 0 auto 1.5rem auto;
+  border-radius: 10px;
   }
 
   #siguiente {
