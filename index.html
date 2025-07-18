@@ -78,16 +78,16 @@
         const total = preguntas.length;
         let mensaje = '';
         if (aciertos / total >= 0.8) {
-           mensaje = '¡Muy bien hecho!';
+           mensaje = 'Very well done!';
         } else if (aciertos / total >= 0.5) {
-            mensaje = 'Nada mal, pero puedes mejorar.';
+            mensaje = 'Not bad, but you can improve.';
         } else {
-            mensaje = '¡Sigue practicando!';
+            mensaje = 'Keep practicing!';
         }
 
       document.getElementById('contenedor-pregunta').innerHTML = `
-        <h2>¡Has completado el test!</h2>
-        <p>Respuestas correctas: <strong>${aciertos} de ${total}</strong></p>
+        <h2>You have completed the test!</h2>
+        <p>Correct answers: <strong>${aciertos} de ${total}</strong></p>
         <p>${mensaje}</p>
         `;
         document.getElementById('siguiente').style.display = 'none';
