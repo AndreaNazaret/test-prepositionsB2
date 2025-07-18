@@ -76,10 +76,20 @@
         document.getElementById('siguiente').style.display = 'none';
       } else {
         const total = preguntas.length;
-        document.getElementById('contenedor-pregunta').innerHTML =
-         '<h2>¡Has completado el test!</h2>'
-          '<p>Respuestas correctas: <strong>${aciertos} de ${total}</strong></p>';
-        
+        let mensaje = '';
+        if (aciertos / total >= 0.8) {
+           mensaje = '¡Muy bien hecho!';
+        } else if (aciertos / total >= 0.5) {
+            mensaje = 'Nada mal, pero puedes mejorar.';
+        } else {
+            mensaje = '¡Sigue practicando!';
+        }
+
+      document.getElementById('contenedor-pregunta').innerHTML = `
+        <h2>¡Has completado el test!</h2>
+        <p>Respuestas correctas: <strong>${aciertos} de ${total}</strong></p>
+        <p>${mensaje}</p>
+        `;
         document.getElementById('siguiente').style.display = 'none';
       }
     };
