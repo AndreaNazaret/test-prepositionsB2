@@ -170,7 +170,7 @@
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "What do you like to spend your m___ey on?",
+    "pregunta": "What do you like to spend your money ___?",
     "opciones": [
       "from",
       "on",
@@ -320,7 +320,7 @@
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "She is some___e who you can rely on.",
+    "pregunta": "She is someone who you can rely ___.",
     "opciones": [
       "into",
       "of",
@@ -628,5 +628,107 @@
       "in"
     ],
     "respuesta_correcta": 0
+  },
+
+  {
+    "pregunta": "He insisted ___ paying the bill.",
+    "opciones": ["on", "in", "to", "about"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "They apologized ___ being late.",
+    "opciones": ["for", "to", "with", "about"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She succeeded ___ convincing them.",
+    "opciones": ["in", "at", "on", "with"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "He accused her ___ lying.",
+    "opciones": ["of", "for", "about", "to"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "They complained ___ the service.",
+    "opciones": ["about", "with", "to", "at"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She specializes ___ environmental law.",
+    "opciones": ["in", "on", "at", "to"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "He deals ___ customer complaints.",
+    "opciones": ["with", "at", "to", "about"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "We agreed ___ the terms.",
+    "opciones": ["on", "with", "to", "about"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "They provided us ___ useful information.",
+    "opciones": ["with", "to", "for", "at"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I’m tired ___ waiting for him.",
+    "opciones": ["of", "from", "in", "to"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "He was accused ___ cheating on the test.",
+    "opciones": ["of", "with", "to", "by"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She recovered ___ the illness quickly.",
+    "opciones": ["from", "of", "to", "by"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "He’s capable ___ doing it alone.",
+    "opciones": ["of", "for", "in", "to"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She was accused ___ stealing.",
+    "opciones": ["of", "about", "with", "to"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I'm responsible ___ the report.",
+    "opciones": ["for", "to", "of", "about"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She’s interested ___ graphic design.",
+    "opciones": ["in", "to", "of", "at"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "He congratulated me ___ my success.",
+    "opciones": ["on", "for", "about", "to"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I object ___ his behavior.",
+    "opciones": ["to", "with", "at", "on"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "They succeeded ___ getting the contract.",
+    "opciones": ["in", "with", "to", "on"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She reminded me ___ our appointment.",
+    "opciones": ["about", "of", "for", "on"],
+    "respuesta_correcta": 0
   }
+
 ]
