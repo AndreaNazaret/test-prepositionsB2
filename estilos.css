@@ -14,7 +14,7 @@ body {
   display: flex;
   flex-direction: column; /* importante para apilar verticalmente */
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start; /* ← alinea arriba */
   min-height: 100vh;
   margin: 0;
   padding-top: 2rem; /* espacio superior */
@@ -106,9 +106,9 @@ body {
   }
 
   .card {
-    width: 90%;
+    width: 80%;
     padding: 2rem 1rem;
-    margin: 0 1.3rem;
+    margin: 0 2rem;
   }
 
   #contenedor-pregunta h2 {
