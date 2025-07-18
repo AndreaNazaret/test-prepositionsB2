@@ -1,12 +1,632 @@
 [
   {
-    "pregunta": "He arrived ___ the airport just in time.",
-    "opciones": ["at", "to", "in", "on"],
+    "pregunta": "He succeeded ___ passing the test.",
+    "opciones": [
+      "at",
+      "as",
+      "to",
+      "in"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "He managed ___ pass the test.",
+    "opciones": [
+      "among",
+      "to",
+      "at",
+      "into"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "He is capable ___ passing the test.",
+    "opciones": [
+      "of",
+      "for",
+      "as",
+      "in"
+    ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "She’s been living in Madrid ___ 2019.",
-    "opciones": ["for", "since", "by", "until"],
+    "pregunta": "He is responsible ___ this department.",
+    "opciones": [
+      "into",
+      "as",
+      "for",
+      "of"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "It depends ___ the weather, let’s just wait and see.",
+    "opciones": [
+      "between",
+      "in",
+      "from",
+      "on"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "She insisted ___ buying me a present.",
+    "opciones": [
+      "at",
+      "on",
+      "from",
+      "as"
+    ],
     "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "I am good ___ playing chess.",
+    "opciones": [
+      "of",
+      "among",
+      "at",
+      "about"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "I am interested ___ meeting your family.",
+    "opciones": [
+      "in",
+      "of",
+      "between",
+      "with"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She is so envious ___ me.",
+    "opciones": [
+      "as",
+      "of",
+      "at",
+      "about"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "They had to rescue her ___ the water.",
+    "opciones": [
+      "at",
+      "from",
+      "among",
+      "into"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "It took him a long time to recover ___ the accident.",
+    "opciones": [
+      "at",
+      "between",
+      "from",
+      "as"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "They will provide you ___ the equipment.",
+    "opciones": [
+      "at",
+      "into",
+      "as",
+      "with"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "My father does not approve ___ my new boyfriend.",
+    "opciones": [
+      "for",
+      "on",
+      "among",
+      "of"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "Why are you staring ___ me?",
+    "opciones": [
+      "of",
+      "into",
+      "on",
+      "at"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "You shouldn’t laugh ___ people.",
+    "opciones": [
+      "from",
+      "about",
+      "among",
+      "at"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "I am fed up ___ work, I need a holiday.",
+    "opciones": [
+      "of",
+      "with",
+      "between",
+      "about"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "I hate it when he boasts ___ the money he has.",
+    "opciones": [
+      "into",
+      "in",
+      "about",
+      "among"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "What do you like to spend your m___ey on?",
+    "opciones": [
+      "from",
+      "on",
+      "as",
+      "for"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "It would be hard to choose ___ all these chocolates.",
+    "opciones": [
+      "with",
+      "on",
+      "of",
+      "among"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "I can’t choose ___ the two men.",
+    "opciones": [
+      "from",
+      "with",
+      "between",
+      "at"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "She put the blame ___ me!",
+    "opciones": [
+      "among",
+      "into",
+      "from",
+      "on"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "She blamed me ___ the accident.",
+    "opciones": [
+      "as",
+      "for",
+      "with",
+      "among"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "I was punished ___ the crime.",
+    "opciones": [
+      "for",
+      "of",
+      "among",
+      "as"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She accused me ___ stealing her money.",
+    "opciones": [
+      "into",
+      "of",
+      "at",
+      "in"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "He was found guilty ___ murder.",
+    "opciones": [
+      "between",
+      "at",
+      "into",
+      "of"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "Teenagers are addicted ___ Twitter.",
+    "opciones": [
+      "to",
+      "at",
+      "into",
+      "as"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I look forward ___ meeting your parents.",
+    "opciones": [
+      "of",
+      "for",
+      "to",
+      "in"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "He objected ___ the accusations.",
+    "opciones": [
+      "of",
+      "at",
+      "with",
+      "to"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "She is famous ___ her good looks but nothing else.",
+    "opciones": [
+      "about",
+      "into",
+      "for",
+      "in"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "I am fond ___ dogs.",
+    "opciones": [
+      "to",
+      "on",
+      "of",
+      "as"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "I don’t know if I should get married ___ him.",
+    "opciones": [
+      "to",
+      "in",
+      "into",
+      "from"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "What did you dream ___ last night?",
+    "opciones": [
+      "about",
+      "into",
+      "in",
+      "with"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She is some___e who you can rely on.",
+    "opciones": [
+      "into",
+      "of",
+      "to",
+      "on"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "Does this ring belong ___ you?",
+    "opciones": [
+      "at",
+      "as",
+      "to",
+      "between"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "I won’t forgive him ___ what he has done.",
+    "opciones": [
+      "among",
+      "for",
+      "in",
+      "with"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Have you been invited ___ her party?",
+    "opciones": [
+      "for",
+      "about",
+      "to",
+      "at"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "She was not aware ___ the problem.",
+    "opciones": [
+      "of",
+      "among",
+      "for",
+      "into"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I warned you ___ him, didn’t I?",
+    "opciones": [
+      "on",
+      "about",
+      "for",
+      "with"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "I am keen ___ painting.",
+    "opciones": [
+      "on",
+      "in",
+      "between",
+      "about"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I am going ___ complain to the Manager about this.",
+    "opciones": [
+      "from",
+      "to",
+      "for",
+      "into"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "I am allergic ___ pollen.",
+    "opciones": [
+      "to",
+      "as",
+      "at",
+      "of"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "My parents are so proud ___ me.",
+    "opciones": [
+      "of",
+      "for",
+      "in",
+      "from"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I used to be afraid ___ spiders.",
+    "opciones": [
+      "of",
+      "into",
+      "on",
+      "at"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "He was suspicious ___ the new neighbours.",
+    "opciones": [
+      "of",
+      "about",
+      "with",
+      "in"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "My parents are worried ___ me.",
+    "opciones": [
+      "with",
+      "between",
+      "in",
+      "about"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "The Police have arrested him ___ shoplifting.",
+    "opciones": [
+      "for",
+      "on",
+      "to",
+      "in"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "I can’t concentrate ___ my work.",
+    "opciones": [
+      "on",
+      "between",
+      "at",
+      "into"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "The exams consist ___ four written parts.",
+    "opciones": [
+      "on",
+      "with",
+      "into",
+      "of"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "She was prevented ___ going on the trip.",
+    "opciones": [
+      "to",
+      "as",
+      "from",
+      "between"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "Do you believe ___ ghosts?",
+    "opciones": [
+      "in",
+      "as",
+      "into",
+      "between"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She has a lack ___ confidence.",
+    "opciones": [
+      "for",
+      "of",
+      "as",
+      "between"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "She has always been jealous ___ me.",
+    "opciones": [
+      "to",
+      "of",
+      "into",
+      "from"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "I would like to apply ___ the job.",
+    "opciones": [
+      "between",
+      "for",
+      "into",
+      "to"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "She had a bad influence ___ me.",
+    "opciones": [
+      "into",
+      "about",
+      "on",
+      "among"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "I’d like to congratulate you ___ your new job position.",
+    "opciones": [
+      "of",
+      "about",
+      "to",
+      "on"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "She is regarded ___ one of the most important people of all times.",
+    "opciones": [
+      "among",
+      "with",
+      "on",
+      "as"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "They were supplied ___ food and water.",
+    "opciones": [
+      "for",
+      "from",
+      "to",
+      "with"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "This weather has a terrible effect ___ my mood.",
+    "opciones": [
+      "on",
+      "to",
+      "with",
+      "from"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "The closure of the office resulted ___ us not being able to work anymore.",
+    "opciones": [
+      "into",
+      "on",
+      "to",
+      "in"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "Pop music appeals ___ youngsters",
+    "opciones": [
+      "for",
+      "among",
+      "to",
+      "from"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "The teacher gave us an insight ___ what the exam would be like.",
+    "opciones": [
+      "about",
+      "as",
+      "between",
+      "into"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "She has passed the exam ___ a result of her hard work.",
+    "opciones": [
+      "among",
+      "as",
+      "about",
+      "with"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "You can apply his method ___ your work.",
+    "opciones": [
+      "to",
+      "with",
+      "about",
+      "in"
+    ],
+    "respuesta_correcta": 0
   }
 ]
