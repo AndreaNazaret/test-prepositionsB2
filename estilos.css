@@ -99,6 +99,12 @@ body {
 
 /* Estilos adaptativos para móviles */
 @media (max-width: 600px) {
+    body {
+    justify-content: flex-start;
+    min-height: auto;
+    padding-top: 1rem;
+  }
+  
   .titulo {
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
