@@ -1,3 +1,5 @@
+
+
 .titulo {
   text-align: center;
   font-size: 2rem;
@@ -44,15 +46,6 @@ body {
   transition: width 0.3s ease;
 }
 
-.contador {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: white;
-  font-size: 0.8rem;
-  font-weight: bold;
-}
 
 #contenedor-pregunta h2 {
   font-weight: normal;
@@ -101,5 +94,42 @@ body {
   font-size: 1rem;
   cursor: pointer;
   display: inline-block;
+}
+
+
+/* Estilos adaptativos para móviles */
+@media (max-width: 600px) {
+  .titulo {
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+    padding: 0 1rem;
+  }
+
+  .card {
+    padding: 2rem 1.2rem;
+    border-radius: 16px;
+    width: 95%;
+  }
+
+  #contenedor-pregunta h2 {
+    font-size: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .opcion {
+    font-size: 0.95rem;
+    padding: 0.6rem 0.8rem;
+    max-width: 100%;
+  }
+
+  .barra-progreso {
+    height: 14px;
+  }
+
+  #siguiente {
+    width: 100%;
+    max-width: 100%;
+    font-size: 0.95rem;
+  }
 }
 
