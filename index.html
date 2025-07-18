@@ -3,18 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <title>Test B2 - Prepositions</title>
-  <style>
-    body { font-family: sans-serif; padding: 2rem; max-width: 600px; margin: auto; }
-    .opcion { margin-bottom: 10px; display: block; }
-    .correcta { color: green; }
-    .incorrecta { color: red; }
-  </style>
+  <link rel="stylesheet" href="estilos.css">
+
 </head>
 <body>
   <h1>Test B2 - Prepositions</h1>
-  <div id="contenedor-pregunta"></div>
-  <button id="siguiente" style="display:none;">Siguiente</button>
-
+  <div class="card">
+    <div id="contenedor-pregunta"></div>
+    <p class="instruccion">Choose only one</p>
+    <button id="siguiente" style="display:none;">Next</button>
+  </div>
+  
   <script>
     let preguntas = [];
     let indice = 0;
