@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Test B2 - Prepositions</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; max-width: 600px; margin: auto; }
+    .opcion { margin-bottom: 10px; display: block; }
+    .correcta { color: green; }
+    .incorrecta { color: red; }
+  </style>
+</head>
+<body>
+  <h1>Test B2 - Prepositions</h1>
+  <div id="contenedor-pregunta"></div>
+  <button id="siguiente" style="display:none;">Siguiente</button>
+
+  <script>
+    let preguntas = [];
+    let indice = 0;
+
+    async function cargarPreguntas() {
+      const res = await fetch('preguntas.json');
+      preguntas = await res.json();
+      mostrarPregunta();
+    }
+
+    function mostrarPregunta() {
+      const contenedor = document.getElementById('contenedor-pregunta');
+      const pregunta = preguntas[indice];
+      contenedor.innerHTML = `<h2>${pregunta.pregunta}</h2>`;
+      pregunta.opciones.forEach((opcion, i) => {
+        const boton = document.createElement('button');
+        boton.textContent = opcion;
+        boton.className = "opcion";
+        boton.onclick = () => comprobarRespuesta(i);
+        contenedor.appendChild(boton);
+      });
+    }
+
+    function comprobarRespuesta(seleccionado) {
+      const botones = document.querySelectorAll('.opcion');
+      botones.forEach((btn, i) => {
+        btn.disabled = true;
+        if (i === preguntas[indice].respuesta_correcta) {
+          btn.classList.add('correcta');
+        } else if (i === seleccionado) {
+          btn.classList.add('incorrecta');
+        }
+      });
+      document.getElementById('siguiente').style.display = 'inline';
+    }
+
+    document.getElementById('siguiente').onclick = () => {
+      indice++;
+      if (indice < preguntas.length) {
+        mostrarPregunta();
+        document.getElementById('siguiente').style.display = 'none';
+      } else {
+        document.getElementById('contenedor-pregunta').innerHTML = '<h2>¡Has completado el test!</h2>';
+        document.getElementById('siguiente').style.display = 'none';
+      }
+    };
+
+    cargarPreguntas();
+  </script>
+</body>
+</html>
