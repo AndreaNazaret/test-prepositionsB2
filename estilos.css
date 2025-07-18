@@ -28,6 +28,32 @@ body {
   text-align: center;
 }
 
+.barra-progreso {
+  position: relative;
+  height: 20px;
+  background-color: #ccc; /* gris claro como fondo */
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.relleno {
+  height: 100%;
+  width: 0%;
+  background-color: #343a40; /* gris oscuro */
+  transition: width 0.3s ease;
+}
+
+.contador {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
 #contenedor-pregunta h2 {
   font-weight: normal;
   margin-bottom: 1.5rem;
@@ -77,9 +103,3 @@ body {
   display: inline-block;
 }
 
-.instruccion {
-  font-size: 0.9rem;
-  color: #555;
-  margin-top: -1rem;
-  margin-bottom: 2rem;
-}

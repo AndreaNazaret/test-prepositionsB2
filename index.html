@@ -10,8 +10,11 @@
   
    <h1 class="titulo">TEST B2 - Prepositions</h1>
   <div class="card">
+    <div class="barra-progreso">
+    <div class="relleno"></div>
+    <span class="contador">Pregunta 1/63</span>
+    </div>
     <div id="contenedor-pregunta"></div>
-    <p class="instruccion">Choose only one</p>
     <button id="siguiente" style="display:none;">Next</button>
   </div>
 
@@ -26,17 +29,27 @@
     }
 
     function mostrarPregunta() {
-      const contenedor = document.getElementById('contenedor-pregunta');
-      const pregunta = preguntas[indice];
-      contenedor.innerHTML = `<h2>${pregunta.pregunta}</h2>`;
-      pregunta.opciones.forEach((opcion, i) => {
-        const boton = document.createElement('button');
-        boton.textContent = opcion;
-        boton.className = "opcion";
-        boton.onclick = () => comprobarRespuesta(i);
-        contenedor.appendChild(boton);
-      });
-    }
+  const pregunta = preguntas[indice];
+
+  // Actualizar barra de progreso
+  const total = preguntas.length;
+  const porcentaje = ((indice + 1) / total) * 100;
+
+  document.querySelector('.relleno').style.width = `${porcentaje}%`;
+  document.querySelector('.contador').textContent = `Pregunta ${indice + 1}/${total}`;
+
+  // Mostrar pregunta
+  const contenedor = document.getElementById('contenedor-pregunta');
+  contenedor.innerHTML = `<h2>${pregunta.pregunta}</h2>`;
+
+  pregunta.opciones.forEach((opcion, i) => {
+    const boton = document.createElement('button');
+    boton.textContent = opcion;
+    boton.className = "opcion";
+    boton.onclick = () => comprobarRespuesta(i);
+    contenedor.appendChild(boton);
+  });
+}
 
     function comprobarRespuesta(seleccionado) {
       const botones = document.querySelectorAll('.opcion');
