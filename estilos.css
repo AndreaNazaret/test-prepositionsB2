@@ -1,11 +1,21 @@
+.titulo {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  color: #222;
+}
+
 body {
-  background-color: #f5f6fa;
+ background-color: #f5f6fa;
   font-family: 'Segoe UI', sans-serif;
   display: flex;
-  justify-content: center;
+  flex-direction: column; /* importante para apilar verticalmente */
   align-items: center;
-  height: 100vh;
+  justify-content: center;
+  min-height: 100vh;
   margin: 0;
+  padding-top: 2rem; /* espacio superior */
 }
 
 .card {
