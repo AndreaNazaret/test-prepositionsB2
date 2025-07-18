@@ -1,0 +1,12 @@
+[
+  {
+    "pregunta": "He arrived ___ the airport just in time.",
+    "opciones": ["at", "to", "in", "on"],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "She’s been living in Madrid ___ 2019.",
+    "opciones": ["for", "since", "by", "until"],
+    "respuesta_correcta": 1
+  }
+]
