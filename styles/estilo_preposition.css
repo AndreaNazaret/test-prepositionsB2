@@ -1,6 +1,6 @@
 
 body {
-  background-color: #84be8391;
+  background-color: #adccac91;
   font-family: 'Montserrat', sans-serif;
   display: flex;
   flex-direction: column; /* importante para apilar verticalmente */
@@ -99,7 +99,7 @@ body {
 
 #contenedor-pregunta h2 {
   margin-bottom: 1.5rem;
-  font-weight: 300;
+  font-weight: 500;
   padding: 0 0.5rem; /* Pequeño padding para el texto de la pregunta */
 }
 
