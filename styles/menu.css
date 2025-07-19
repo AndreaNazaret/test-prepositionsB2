@@ -45,8 +45,9 @@ body {
   text-align: center;
   font-size: 0.7rem; /* Un poco más grande para ser legible, pero aún pequeño */
   color: #9d9999; /* Un gris un poco más sólido para asegurar visibilidad mínima */
-  margin-top: 2rem; /* Espacio encima del texto, para separarlo de la tarjeta */
+  margin-top: auto; /* Espacio encima del texto, para separarlo de la tarjeta */
   opacity: 0.7; /* Hace el texto un poco transparente para que sea "poco visible" */
+  padding-bottom: 1rem;
 }
 
 
@@ -72,9 +73,14 @@ body {
     font-size: 1.5rem;
   }
 
+   .card {
+    padding: 2rem 1rem;
+    margin-bottom: 1.5rem; /* Ajustar margen para móviles */
+  }
+
   .sign {
     font-size: 0.6rem; /* Incluso más pequeño en móviles si lo deseas */
-    margin-top: 1.5rem; /* Ajustar margen para móviles */
+    margin-top: 0.5rem; /* Ajustar margen para móviles */
   }
 
   .boton-test {
