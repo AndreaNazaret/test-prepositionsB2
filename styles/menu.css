@@ -4,10 +4,11 @@ body {
   display: flex;
   flex-direction: column; /* importante para apilar verticalmente */
   align-items: center;
-  justify-content: flex-start; /* ← alinea arriba */
+  justify-content: space-between;  /* ← alinea arriba */
   min-height: 100vh;
   margin: 0;
   padding-top: 2rem; /* espacio superior */
+  padding-bottom: 1rem;
 }
 
 .card {
@@ -45,9 +46,8 @@ body {
   text-align: center;
   font-size: 0.7rem; /* Un poco más grande para ser legible, pero aún pequeño */
   color: #9d9999; /* Un gris un poco más sólido para asegurar visibilidad mínima */
-  margin-top: auto; /* Espacio encima del texto, para separarlo de la tarjeta */
   opacity: 0.7; /* Hace el texto un poco transparente para que sea "poco visible" */
-  padding-bottom: 1rem;
+  
 }
 
 
@@ -75,12 +75,12 @@ body {
 
    .card {
     padding: 2rem 1rem;
-    margin-bottom: 1.5rem; /* Ajustar margen para móviles */
+    /*margin-bottom: 1.5rem; /* Ajustar margen para móviles */
   }
 
   .sign {
     font-size: 0.6rem; /* Incluso más pequeño en móviles si lo deseas */
-    margin-top: 0.5rem; /* Ajustar margen para móviles */
+    /*margin-top: 0.5rem; /* Ajustar margen para móviles */
   }
 
   .boton-test {
