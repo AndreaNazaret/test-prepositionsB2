@@ -38,7 +38,16 @@ body {
   font-size: 2rem;
   margin-bottom: 2rem;
   font-weight: 600;
-  color: #222;
+  color: #202b4e;
+}
+
+.sign{
+  text-align: center;
+  font-size: 0.5rem;
+  color: #9d9999ba;
+  padding: 10px;
+  position: fixed;
+  bottom: 0.5;
 }
 
 
