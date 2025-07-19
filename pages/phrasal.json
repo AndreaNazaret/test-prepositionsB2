@@ -1,0 +1,1022 @@
+[
+  {
+    "pregunta": "Break down",
+    "opciones": [
+      "to repair",
+      "to stop functioning",
+      "to build up",
+      "to start"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Break up",
+    "opciones": [
+      "to unite",
+      "to separate",
+      "to mend",
+      "to create"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Bring up",
+    "opciones": [
+      "to lower",
+      "to educate a child",
+      "to ignore",
+      "to hide"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come across",
+    "opciones": [
+      "to avoid",
+      "to find by chance",
+      "to lose",
+      "to miss"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Do up",
+    "opciones": [
+      "to unfasten",
+      "to fasten or decorate",
+      "to destroy",
+      "to remove"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Fall out with",
+    "opciones": [
+      "to agree with",
+      "to argue with",
+      "to reconcile with",
+      "to support"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Find out",
+    "opciones": [
+      "to conceal",
+      "to discover information",
+      "to forget",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Grow up",
+    "opciones": [
+      "to shrink",
+      "to mature",
+      "to decrease",
+      "to stop growing"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Look after",
+    "opciones": [
+      "to neglect",
+      "to take care of",
+      "to abandon",
+      "to harm"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Look up",
+    "opciones": [
+      "to search for information",
+      "to look down",
+      "to ignore",
+      "to forget"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "Look up to",
+    "opciones": [
+      "to disrespect",
+      "to admire",
+      "to look down on",
+      "to criticize"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Run into",
+    "opciones": [
+      "to avoid",
+      "to meet unexpectedly",
+      "to escape",
+      "to miss"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Stand for",
+    "opciones": [
+      "to oppose",
+      "to represent",
+      "to sit for",
+      "to deny"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Speak up",
+    "opciones": [
+      "to whisper",
+      "to speak louder",
+      "to be silent",
+      "to mumble"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Take after",
+    "opciones": [
+      "to be different from",
+      "to resemble",
+      "to lead",
+      "to abandon"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Die out",
+    "opciones": [
+      "to flourish",
+      "to become extinct",
+      "to grow",
+      "to revive"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Fill in",
+    "opciones": [
+      "to empty",
+      "to complete a form",
+      "to erase",
+      "to leave blank"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get away with",
+    "opciones": [
+      "to be punished for",
+      "to avoid punishment",
+      "to confess to",
+      "to be caught"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get over",
+    "opciones": [
+      "to be sad about",
+      "to recover from",
+      "to worsen",
+      "to be defeated by"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go through",
+    "opciones": [
+      "to avoid",
+      "to experience",
+      "to skip",
+      "to neglect"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go down",
+    "opciones": [
+      "to ascend",
+      "to decrease",
+      "to increase",
+      "to rise"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Let down",
+    "opciones": [
+      "to support",
+      "to disappoint",
+      "to uplift",
+      "to encourage"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Look into",
+    "opciones": [
+      "to ignore",
+      "to investigate",
+      "to overlook",
+      "to disregard"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Make up",
+    "opciones": [
+      "to quarrel",
+      "to invent or reconcile",
+      "to destroy",
+      "to separate"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Pass out",
+    "opciones": [
+      "to wake up",
+      "to faint",
+      "to remain conscious",
+      "to revive"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Pass away",
+    "opciones": [
+      "to be born",
+      "to die",
+      "to live",
+      "to arrive"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Be over",
+    "opciones": [
+      "to begin",
+      "to finish",
+      "to continue",
+      "to pause"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Break into",
+    "opciones": [
+      "to exit",
+      "to enter by force",
+      "to repair",
+      "to build"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Call off",
+    "opciones": [
+      "to start",
+      "to cancel",
+      "to postpone",
+      "to continue"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Carry out",
+    "opciones": [
+      "to fail to do",
+      "to perform a task",
+      "to abandon",
+      "to delay"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Check in",
+    "opciones": [
+      "to leave a hotel",
+      "to register at a hotel",
+      "to check out",
+      "to depart"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Cheer up",
+    "opciones": [
+      "to make sad",
+      "to become happier",
+      "to discourage",
+      "to depress"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come up with",
+    "opciones": [
+      "to forget",
+      "to invent an idea",
+      "to reject",
+      "to lose"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come into",
+    "opciones": [
+      "to lose inheritance",
+      "to inherit",
+      "to give away",
+      "to spend"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Cut down on",
+    "opciones": [
+      "to increase consumption",
+      "to reduce consumption",
+      "to maintain",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get away",
+    "opciones": [
+      "to be caught",
+      "to escape",
+      "to stay",
+      "to arrive"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Give up",
+    "opciones": [
+      "to continue",
+      "to stop trying",
+      "to start",
+      "to persevere"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go with",
+    "opciones": [
+      "to clash with",
+      "to match or suit",
+      "to oppose",
+      "to dislike"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Look forward to",
+    "opciones": [
+      "to dread",
+      "to anticipate with pleasure",
+      "to fear",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Look down on",
+    "opciones": [
+      "to respect",
+      "to think of as inferior",
+      "to admire",
+      "to look up to"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Make out",
+    "opciones": [
+      "to understand clearly",
+      "to confuse",
+      "to misunderstand",
+      "to hide"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "Be off",
+    "opciones": [
+      "to stay",
+      "to depart",
+      "to arrive",
+      "to remain"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Bring out",
+    "opciones": [
+      "to hide",
+      "to publish or release",
+      "to suppress",
+      "to withdraw"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Calm down",
+    "opciones": [
+      "to agitate",
+      "to relax after anger",
+      "to excite",
+      "to worry"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Catch up with",
+    "opciones": [
+      "to fall behind",
+      "to reach the same level",
+      "to avoid",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Carry on",
+    "opciones": [
+      "to stop",
+      "to continue",
+      "to cease",
+      "to end"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get carried away",
+    "opciones": [
+      "to be restrained",
+      "to become overly enthusiastic",
+      "to be calm",
+      "to be sensible"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Check out",
+    "opciones": [
+      "to check in",
+      "to leave a hotel or investigate",
+      "to stay",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come out",
+    "opciones": [
+      "to stay hidden",
+      "to be published or revealed",
+      "to disappear",
+      "to go in"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come up",
+    "opciones": [
+      "to go down",
+      "to appear or arise",
+      "to disappear",
+      "to hide"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come back",
+    "opciones": [
+      "to leave",
+      "to return",
+      "to depart",
+      "to go away"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come down with",
+    "opciones": [
+      "to recover from illness",
+      "to become ill with",
+      "to stay healthy",
+      "to avoid sickness"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Come over",
+    "opciones": [
+      "to stay away",
+      "to visit someone's house",
+      "to leave",
+      "to avoid"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Deal with",
+    "opciones": [
+      "to ignore",
+      "to handle or manage",
+      "to avoid",
+      "to neglect"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get into",
+    "opciones": [
+      "to get out of",
+      "to enter",
+      "to avoid",
+      "to escape"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get together",
+    "opciones": [
+      "to separate",
+      "to meet socially",
+      "to disperse",
+      "to avoid"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Get on",
+    "opciones": [
+      "to get off",
+      "to have a good relationship",
+      "to argue",
+      "to dislike"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Give away",
+    "opciones": [
+      "to keep",
+      "to reveal or donate",
+      "to conceal",
+      "to take"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go up",
+    "opciones": [
+      "to decrease",
+      "to increase",
+      "to fall",
+      "to descend"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go out with",
+    "opciones": [
+      "to break up with",
+      "to be in a romantic relationship",
+      "to avoid",
+      "to be single"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go off",
+    "opciones": [
+      "to stay on",
+      "to explode or make a sound",
+      "to stop",
+      "to calm down"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go out",
+    "opciones": [
+      "to stay in",
+      "to leave the house",
+      "to arrive",
+      "to enter"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Go over",
+    "opciones": [
+      "to skip",
+      "to review or examine",
+      "to ignore",
+      "to forget"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Hang on",
+    "opciones": [
+      "to let go",
+      "to wait a short time",
+      "to release",
+      "to abandon"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Hang up",
+    "opciones": [
+      "to pick up",
+      "to end a phone call",
+      "to dial",
+      "to connect"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Hand in",
+    "opciones": [
+      "to receive",
+      "to submit something",
+      "to take back",
+      "to keep"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Put out",
+    "opciones": [
+      "to ignite",
+      "to extinguish a fire",
+      "to light up",
+      "to start"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Pick up",
+    "opciones": [
+      "to drop",
+      "to lift or collect",
+      "to leave behind",
+      "to put down"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Put up with",
+    "opciones": [
+      "to resist",
+      "to tolerate",
+      "to reject",
+      "to oppose"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Put off",
+    "opciones": [
+      "to start",
+      "to postpone",
+      "to advance",
+      "to hasten"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Put on",
+    "opciones": [
+      "to take off",
+      "to wear clothes",
+      "to remove",
+      "to undress"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Run out of",
+    "opciones": [
+      "to have plenty of",
+      "to exhaust supply of",
+      "to replenish",
+      "to store"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "See off",
+    "opciones": [
+      "to welcome",
+      "to say goodbye to someone departing",
+      "to meet",
+      "to greet"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Set off/out",
+    "opciones": [
+      "to arrive",
+      "to begin a journey",
+      "to return",
+      "to stop"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Turn down",
+    "opciones": [
+      "to accept",
+      "to refuse or decrease volume",
+      "to increase",
+      "to agree"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Take off",
+    "opciones": [
+      "to put on",
+      "to remove clothing or aircraft departure",
+      "to land",
+      "to arrive"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Take over",
+    "opciones": [
+      "to surrender",
+      "to assume control of",
+      "to relinquish",
+      "to give up"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Take up",
+    "opciones": [
+      "to give up",
+      "to start a hobby or interest",
+      "to abandon",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Try on",
+    "opciones": [
+      "to remove",
+      "to put on clothes to check fit",
+      "to buy without trying",
+      "to discard"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Try out",
+    "opciones": [
+      "to keep without testing",
+      "to test something to see if it works",
+      "to ignore",
+      "to reject"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Work out",
+    "opciones": [
+      "to fail",
+      "to solve a problem or exercise",
+      "to confuse",
+      "to complicate"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Keep on",
+    "opciones": [
+      "to stop",
+      "to continue doing something",
+      "to cease",
+      "to quit"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Keep up with",
+    "opciones": [
+      "to fall behind",
+      "to stay at the same pace as",
+      "to lose track of",
+      "to abandon"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Knock down",
+    "opciones": [
+      "to build up",
+      "to demolish a building",
+      "to construct",
+      "to erect"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Look out",
+    "opciones": [
+      "to ignore danger",
+      "to be careful",
+      "to be careless",
+      "to overlook"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Pick on",
+    "opciones": [
+      "to support",
+      "to bully or criticize unfairly",
+      "to help",
+      "to praise"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Pick somebody up",
+    "opciones": [
+      "to drop off someone",
+      "to collect someone in a car",
+      "to leave alone",
+      "to ignore"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Put up",
+    "opciones": [
+      "to take down",
+      "to build or display",
+      "to demolish",
+      "to remove"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Put somebody up",
+    "opciones": [
+      "to refuse accommodation",
+      "to provide accommodation for someone",
+      "to evict",
+      "to throw out"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Run over",
+    "opciones": [
+      "to avoid hitting",
+      "to hit with a vehicle",
+      "to miss",
+      "to swerve"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Run away",
+    "opciones": [
+      "to stay",
+      "to escape from a place or situation",
+      "to remain",
+      "to confront"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Save up",
+    "opciones": [
+      "to spend all money",
+      "to save money for a purpose",
+      "to waste",
+      "to squander"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Set up",
+    "opciones": [
+      "to dismantle",
+      "to establish or arrange",
+      "to destroy",
+      "to break down"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Settle down",
+    "opciones": [
+      "to wander",
+      "to become calm or live a stable life",
+      "to move around",
+      "to be restless"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Show up",
+    "opciones": [
+      "to be absent",
+      "to appear or arrive",
+      "to disappear",
+      "to hide"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Show off",
+    "opciones": [
+      "to be humble",
+      "to boast or display proudly",
+      "to hide talents",
+      "to be modest"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Sort out",
+    "opciones": [
+      "to complicate",
+      "to organize or resolve",
+      "to mess up",
+      "to confuse"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Tidy up",
+    "opciones": [
+      "to mess up",
+      "to make a place neat",
+      "to disorganize",
+      "to clutter"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Turn out",
+    "opciones": [
+      "to stay in",
+      "to result or happen",
+      "to fail",
+      "to prevent"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Turn up",
+    "opciones": [
+      "to decrease volume",
+      "to appear or increase volume",
+      "to disappear",
+      "to lower"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Throw up",
+    "opciones": [
+      "to keep down",
+      "to vomit",
+      "to swallow",
+      "to retain"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "Wrap up",
+    "opciones": [
+      "to unwrap",
+      "to finish something",
+      "to open",
+      "to start"
+    ],
+    "respuesta_correcta": 1
+  }
+]

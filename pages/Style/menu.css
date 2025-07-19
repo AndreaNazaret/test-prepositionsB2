@@ -18,6 +18,10 @@ body {
   max-width: 500px;
   width: 90%;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem; 
 }
 
 .relleno {
@@ -39,7 +43,8 @@ body {
 
 
 .boton-test {
-  background-color: #5090d4;
+  width: 80%;   
+  background-color: #33457f;
   color: white;
   border: none;
   padding: 1rem 2rem;
@@ -51,7 +56,7 @@ body {
 }
 
 .boton-test:hover {
-  background-color: #29619d;
+  background-color: #436991;
 }
 
 @media (max-width: 480px) {
