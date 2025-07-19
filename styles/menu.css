@@ -1,5 +1,5 @@
 body {
- background-color: #f5f6fa;
+  background: linear-gradient(to top, #9eb0e9 0%, #ffffff 100%);
   font-family: 'Segoe UI', sans-serif;
   display: flex;
   flex-direction: column; /* importante para apilar verticalmente */
@@ -9,6 +9,7 @@ body {
   margin: 0;
   padding-top: 2rem; /* espacio superior */
   padding-bottom: 1rem;
+
 }
 
 .card {
@@ -37,7 +38,7 @@ body {
 .titulo {
   text-align: center;
   font-size: 2rem;
-   margin-top: 10vh; 
+   margin-top: 20vh; 
   margin-bottom: 2rem;
   font-weight: 600;
   color: #293661;
