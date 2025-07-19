@@ -24,7 +24,7 @@
     let indice = 0;
 
     async function cargarPreguntas() {
-      const res = await fetch('phrasal.json');
+      const res = await fetch('pages/phrasal.json');
       preguntas = await res.json();
       mostrarPregunta();
     }
